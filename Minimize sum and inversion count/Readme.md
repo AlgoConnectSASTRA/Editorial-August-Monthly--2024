@@ -11,4 +11,5 @@
 
 4. To make x,y non decreasing, **our only option** is to switch all elements from y till end, to x. via the given operation.
 5. This makes the entire array non decreasing.
-6. Hence the answer will be sum till index(x), and then x*(n-index(x))
+6. Suppose x occurs at index i, The answer will be sum of array till index i, and then x*(n-i)
+8. Where x is the higher value in the inversion pair.
