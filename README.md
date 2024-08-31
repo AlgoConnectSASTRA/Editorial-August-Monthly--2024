@@ -4,7 +4,7 @@ Contest link : https://www.hackerrank.com/azac-august24
 
 Credits:
 
-| Problem | #Setter | #Editorialist | 
+| Problem | Setter | Editorialist | 
 | --- | --- | --- | --- |
 | Collatz Conjecture | Ria Veerabose | Arun Nithyaanandham |
 | Land of Numeria | Elakya Arjun | Arun Nithyaanandham |
